@@ -1,0 +1,9 @@
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\SoloPong\SoloPong\bin\Debug\SoloPong.exe.config
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\SoloPong\SoloPong\bin\Debug\SoloPong.exe
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\SoloPong\SoloPong\bin\Debug\SoloPong.pdb
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\SoloPong\SoloPong\obj\Debug\SoloPong.csprojResolveAssemblyReference.cache
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\SoloPong\SoloPong\obj\Debug\SoloPong.frmMain.resources
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\SoloPong\SoloPong\obj\Debug\SoloPong.Properties.Resources.resources
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\SoloPong\SoloPong\obj\Debug\SoloPong.csproj.GenerateResource.Cache
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\SoloPong\SoloPong\obj\Debug\SoloPong.exe
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\SoloPong\SoloPong\obj\Debug\SoloPong.pdb
